@@ -1,0 +1,22 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using PustokApp.Models;
+
+namespace PustokApp.Data.Configurations
+{
+    public class AuthorConfiguration : IEntityTypeConfiguration<Author>
+    {
+        public void Configure(EntityTypeBuilder<Author> builder)
+        {
+            
+            builder.HasMany(x => x.Books)
+                .WithOne(x => x.Author)
+                .HasForeignKey(x => x.AuthorId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            builder.Property(x => x.FullName)
+                .IsRequired()
+                .HasMaxLength(100);
+        }
+    }
+}
