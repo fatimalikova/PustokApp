@@ -18,5 +18,7 @@ namespace PustokApp.Data.Configurations
                 .IsRequired()
                 .HasMaxLength(100);
         }
-    }
+    };
+
+
 }

@@ -39,6 +39,26 @@ namespace PustokApp.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Authors");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("11111111-1111-1111-1111-111111111111"),
+                            FullName = "George Orwell",
+                            ImageUrl = "authors/george-orwell.jpg"
+                        },
+                        new
+                        {
+                            Id = new Guid("22222222-2222-2222-2222-222222222222"),
+                            FullName = "Jane Austen",
+                            ImageUrl = "authors/jane-austen.jpg"
+                        },
+                        new
+                        {
+                            Id = new Guid("33333333-3333-3333-3333-333333333333"),
+                            FullName = "Mark Twain",
+                            ImageUrl = "authors/mark-twain.jpg"
+                        });
                 });
 
             modelBuilder.Entity("PustokApp.Models.Book", b =>
@@ -54,14 +74,12 @@ namespace PustokApp.Data.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("DiscountPercentage")
                         .HasColumnType("int");
 
                     b.Property<string>("HoverImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("InStock")
@@ -74,7 +92,6 @@ namespace PustokApp.Data.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("MainImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -90,6 +107,53 @@ namespace PustokApp.Data.Migrations
                     b.HasIndex("AuthorId");
 
                     b.ToTable("Books");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
+                            AuthorId = new Guid("11111111-1111-1111-1111-111111111111"),
+                            Code = 1001,
+                            Description = "Dystopian social science fiction novel and cautionary tale.",
+                            DiscountPercentage = 10,
+                            HoverImageUrl = "books/1984-hover.jpg",
+                            InStock = true,
+                            IsFeatured = true,
+                            IsNew = false,
+                            MainImageUrl = "books/1984.jpg",
+                            Name = "1984",
+                            Price = 19.99m
+                        },
+                        new
+                        {
+                            Id = new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"),
+                            AuthorId = new Guid("22222222-2222-2222-2222-222222222222"),
+                            Code = 1002,
+                            Description = "A romantic novel of manners written by Jane Austen.",
+                            DiscountPercentage = 0,
+                            HoverImageUrl = "books/pride-and-prejudice-hover.jpg",
+                            InStock = true,
+                            IsFeatured = false,
+                            IsNew = false,
+                            MainImageUrl = "books/pride-and-prejudice.jpg",
+                            Name = "Pride and Prejudice",
+                            Price = 14.99m
+                        },
+                        new
+                        {
+                            Id = new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"),
+                            AuthorId = new Guid("33333333-3333-3333-3333-333333333333"),
+                            Code = 1003,
+                            Description = "A novel by Mark Twain, first published in 1884.",
+                            DiscountPercentage = 5,
+                            HoverImageUrl = "books/huckleberry-finn-hover.jpg",
+                            InStock = true,
+                            IsFeatured = false,
+                            IsNew = false,
+                            MainImageUrl = "books/huckleberry-finn.jpg",
+                            Name = "Adventures of Huckleberry Finn",
+                            Price = 12.50m
+                        });
                 });
 
             modelBuilder.Entity("PustokApp.Models.BookImage", b =>
@@ -102,7 +166,6 @@ namespace PustokApp.Data.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Image")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -110,6 +173,26 @@ namespace PustokApp.Data.Migrations
                     b.HasIndex("BookId");
 
                     b.ToTable("BookImage");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("aaaaaaaa-0000-0000-0000-aaaaaaaa0001"),
+                            BookId = new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
+                            Image = "books/1984-1.jpg"
+                        },
+                        new
+                        {
+                            Id = new Guid("aaaaaaaa-0000-0000-0000-aaaaaaaa0002"),
+                            BookId = new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"),
+                            Image = "books/pride-1.jpg"
+                        },
+                        new
+                        {
+                            Id = new Guid("aaaaaaaa-0000-0000-0000-aaaaaaaa0003"),
+                            BookId = new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"),
+                            Image = "books/huck-1.jpg"
+                        });
                 });
 
             modelBuilder.Entity("PustokApp.Models.BookTag", b =>
@@ -128,6 +211,26 @@ namespace PustokApp.Data.Migrations
                     b.HasIndex("TagId");
 
                     b.ToTable("BookTags");
+
+                    b.HasData(
+                        new
+                        {
+                            BookId = new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
+                            TagId = new Guid("44444444-4444-4444-4444-444444444444"),
+                            Id = new Guid("bbbbbbbb-0000-0000-0000-bbbbbbbb0001")
+                        },
+                        new
+                        {
+                            BookId = new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"),
+                            TagId = new Guid("55555555-5555-5555-5555-555555555555"),
+                            Id = new Guid("bbbbbbbb-0000-0000-0000-bbbbbbbb0002")
+                        },
+                        new
+                        {
+                            BookId = new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"),
+                            TagId = new Guid("66666666-6666-6666-6666-666666666666"),
+                            Id = new Guid("bbbbbbbb-0000-0000-0000-bbbbbbbb0003")
+                        });
                 });
 
             modelBuilder.Entity("PustokApp.Models.Slider", b =>
@@ -139,23 +242,18 @@ namespace PustokApp.Data.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("ButtonText")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ButtonUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Title")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -176,6 +274,23 @@ namespace PustokApp.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Tags");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("44444444-4444-4444-4444-444444444444"),
+                            Name = "Classic"
+                        },
+                        new
+                        {
+                            Id = new Guid("55555555-5555-5555-5555-555555555555"),
+                            Name = "Romance"
+                        },
+                        new
+                        {
+                            Id = new Guid("66666666-6666-6666-6666-666666666666"),
+                            Name = "Adventure"
+                        });
                 });
 
             modelBuilder.Entity("PustokApp.Models.Book", b =>

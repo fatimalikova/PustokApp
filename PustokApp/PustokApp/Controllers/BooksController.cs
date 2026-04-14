@@ -5,14 +5,10 @@ using PustokApp.ViewModels;
 
 namespace PustokApp.Controllers
 {
-    public class BooksController : Controller
+    public class BooksController(
+        PustokAppDbContext _context) : Controller
     {
-        private readonly PustokAppDbContext _context;
-
-        public BooksController(PustokAppDbContext context)
-        {
-            _context = context;
-        }
+        
 
         public IActionResult Detail(Guid id)
         {
@@ -26,20 +22,18 @@ namespace PustokApp.Controllers
             if (book == null)
                 return NotFound();
 
-            var related = _context.Books
+            BookVm bookVm = new()
+            {
+                Book = book,
+                RelatedBooks = _context.Books
                 .Include(x => x.Author)
                 .Include(x => x.BookImages)
                 .Where(x => x.AuthorId == book.AuthorId && x.Id != book.Id)
                 .Take(4)
-                .ToList();
-
-            var bookDetailVm = new BookDetailVm
-            {
-                Book = book,
-                RelatedBooks = related
+                .ToList()
             };
+            return View(bookVm);
 
-            return View(bookDetailVm);
         }
 
         public IActionResult BookModal(Guid id)

@@ -3,47 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\books\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\books\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Tags.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Sliders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.BookTags.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\viewmodels\\bookdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\viewmodels\\bookdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.BookImage.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\data\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\data\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\data\\configurations\\booktagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\data\\configurations\\booktagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Sliders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\data\\configurations\\bookimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\data\\configurations\\bookimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,16 +49,56 @@
       "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\books\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\books\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\pustokapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\pustokapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\shared\\_bookspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\shared\\_bookspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\data\\pustokappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\data\\pustokappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\viewmodels\\bookdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\viewmodels\\bookdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|solutionrelative:pustokapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE417FF1-A769-4A77-A05D-FCB83C13C36A}|PustokApp\\PustokApp.csproj|c:\\users\\fmeli\\onedrive\\desktop\\pustokapp\\pustokapp\\pustokapp\\models\\bookimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,7 +128,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -104,102 +139,219 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Books\\Detail.cshtml",
-              "RelativeDocumentMoniker": "PustokApp\\Views\\Books\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Books\\Detail.cshtml",
-              "RelativeToolTip": "PustokApp\\Views\\Books\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-11T19:23:52.811Z",
+              "Title": "dbo.Tags [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Tags.sql",
+              "ToolTip": "dbo.Tags [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T11:10:48.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "dbo.Sliders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Sliders.sql",
+              "ToolTip": "dbo.Sliders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T11:10:43.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.BookTags [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.BookTags.sql",
+              "ToolTip": "dbo.BookTags [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T11:10:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\TagConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\TagConfiguration.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\TagConfiguration.cs*",
+              "RelativeToolTip": "PustokApp\\Data\\Configurations\\TagConfiguration.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:57:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Author.cs",
+              "RelativeToolTip": "PustokApp\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:42:53.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "PustokApp\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "PustokApp\\ViewModels\\HomeVm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:08:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T11:00:34.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.BookImage [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.BookImage.sql",
+              "ToolTip": "dbo.BookImage [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T10:38:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T11:04:03.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookTagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookTagConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\BookTagConfiguration.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookTagConfiguration.cs*",
+              "RelativeToolTip": "PustokApp\\Data\\Configurations\\BookTagConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:57:28.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookImageConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\BookImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookImageConfiguration.cs*",
+              "RelativeToolTip": "PustokApp\\Data\\Configurations\\BookImageConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:08:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\AuthorConfiguration.cs*",
+              "RelativeToolTip": "PustokApp\\Data\\Configurations\\AuthorConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:29:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookConfiguration.cs*",
+              "RelativeToolTip": "PustokApp\\Data\\Configurations\\BookConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T19:07:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PustokApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:03:40.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "PustokApp\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Controllers\\BooksController.cs",
               "RelativeToolTip": "PustokApp\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T18:26:49.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeVm.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\HomeVm.cs",
-              "RelativeDocumentMoniker": "PustokApp\\ViewModels\\HomeVm.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\HomeVm.cs",
-              "RelativeToolTip": "PustokApp\\ViewModels\\HomeVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:08:13.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookTagConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookTagConfiguration.cs",
-              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\BookTagConfiguration.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookTagConfiguration.cs",
-              "RelativeToolTip": "PustokApp\\Data\\Configurations\\BookTagConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T19:09:36.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PustokApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PustokApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowBwAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Books\\Detail.cshtml",
+              "RelativeDocumentMoniker": "PustokApp\\Views\\Books\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Books\\Detail.cshtml",
+              "RelativeToolTip": "PustokApp\\Views\\Books\\Detail.cshtml",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAswJIBAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T17:04:01.226Z",
+              "WhenOpened": "2026-04-11T19:23:52.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookDetailVm.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\BookDetailVm.cs",
-              "RelativeDocumentMoniker": "PustokApp\\ViewModels\\BookDetailVm.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\BookDetailVm.cs",
-              "RelativeToolTip": "PustokApp\\ViewModels\\BookDetailVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:12:09.513Z",
+              "DocumentIndex": 16,
+              "Title": "PustokApp",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\PustokApp.csproj",
+              "RelativeDocumentMoniker": "PustokApp\\PustokApp.csproj",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\PustokApp.csproj",
+              "RelativeToolTip": "PustokApp\\PustokApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T10:13:14.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "PustokApp\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Book.cs",
-              "RelativeToolTip": "PustokApp\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:59:19.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "BookVm.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\BookVm.cs",
               "RelativeDocumentMoniker": "PustokApp\\ViewModels\\BookVm.cs",
@@ -212,7 +364,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PustokApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PustokApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAMcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:22:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_BooksPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Shared\\_BooksPartialView.cshtml",
+              "RelativeDocumentMoniker": "PustokApp\\Views\\Shared\\_BooksPartialView.cshtml",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Shared\\_BooksPartialView.cshtml",
+              "RelativeToolTip": "PustokApp\\Views\\Shared\\_BooksPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:49:37.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Program.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Program.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Program.cs",
+              "RelativeToolTip": "PustokApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:15:11.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PustokAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\PustokAppDbContext.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Data\\PustokAppDbContext.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\PustokAppDbContext.cs",
+              "RelativeToolTip": "PustokApp\\Data\\PustokAppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:24:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookDetailVm.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\BookDetailVm.cs",
+              "RelativeDocumentMoniker": "PustokApp\\ViewModels\\BookDetailVm.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\ViewModels\\BookDetailVm.cs",
+              "RelativeToolTip": "PustokApp\\ViewModels\\BookDetailVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:12:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "PustokApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Book.cs",
+              "RelativeToolTip": "PustokApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:59:19.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PustokApp\\appsettings.Development.json",
@@ -220,83 +450,25 @@
               "RelativeToolTip": "PustokApp\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T17:18:01.344Z"
+              "WhenOpened": "2026-04-10T17:18:01.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PustokApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PustokApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:03:40.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookConfiguration.cs",
-              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\BookConfiguration.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\BookConfiguration.cs",
-              "RelativeToolTip": "PustokApp\\Data\\Configurations\\BookConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T19:07:45.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AuthorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\AuthorConfiguration.cs",
-              "RelativeDocumentMoniker": "PustokApp\\Data\\Configurations\\AuthorConfiguration.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\Configurations\\AuthorConfiguration.cs",
-              "RelativeToolTip": "PustokApp\\Data\\Configurations\\AuthorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:29:33.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PustokAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\PustokAppDbContext.cs",
-              "RelativeDocumentMoniker": "PustokApp\\Data\\PustokAppDbContext.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Data\\PustokAppDbContext.cs",
-              "RelativeToolTip": "PustokApp\\Data\\PustokAppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:24:05.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PustokApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PustokApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAG4BAAAAAAAAAAAAAHwBAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGkBAAAAAAAAAEBVwHwBAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T17:09:19.173Z"
+              "WhenOpened": "2026-04-10T17:09:19.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PustokApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PustokApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T17:59:20.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "BookImage.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\BookImage.cs",
               "RelativeDocumentMoniker": "PustokApp\\Models\\BookImage.cs",
@@ -304,11 +476,12 @@
               "RelativeToolTip": "PustokApp\\Models\\BookImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:37:36.959Z"
+              "WhenOpened": "2026-04-10T17:37:36.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "PustokApp\\Models\\Common\\BaseEntity.cs",
@@ -316,11 +489,12 @@
               "RelativeToolTip": "PustokApp\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:56:11.289Z"
+              "WhenOpened": "2026-04-10T17:56:11.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "PustokApp\\Models\\ErrorViewModel.cs",
@@ -328,11 +502,12 @@
               "RelativeToolTip": "PustokApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:37:55.765Z"
+              "WhenOpened": "2026-04-10T18:37:55.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "BookTag.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\BookTag.cs",
               "RelativeDocumentMoniker": "PustokApp\\Models\\BookTag.cs",
@@ -340,11 +515,12 @@
               "RelativeToolTip": "PustokApp\\Models\\BookTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:37:53.708Z"
+              "WhenOpened": "2026-04-10T17:37:53.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\PustokApp\\PustokApp\\PustokApp\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "PustokApp\\Models\\Tag.cs",
@@ -352,41 +528,8 @@
               "RelativeToolTip": "PustokApp\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:38:21.04Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "cb2c8315-3a92-40d3-bd0e-4cd1ff52bccd",
-        "Display": 0,
-        "X": 9,
-        "Y": 422,
-        "Width": 1094,
-        "Height": 378,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.Sliders.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Sliders.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/PustokApp/True/SqlTable/dbo.Sliders.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-04-10T19:45:30.093Z"
+              "WhenOpened": "2026-04-10T17:38:21.04Z",
+              "EditorCaption": ""
             }
           ]
         }
