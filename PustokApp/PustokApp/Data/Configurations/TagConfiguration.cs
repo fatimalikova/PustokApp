@@ -10,6 +10,12 @@ namespace PustokApp.Data.Configurations
         public void Configure(EntityTypeBuilder<Tag> builder)
         {
             builder.Property(x => x.Name).IsRequired();
+
+            builder.HasData(
+                new Tag { Id = Guid.Parse("44444444-4444-4444-4444-444444444444"), Name = "Classic" },
+                new Tag { Id = Guid.Parse("55555555-5555-5555-5555-555555555555"), Name = "Romance" },
+                new Tag { Id = Guid.Parse("66666666-6666-6666-6666-666666666666"), Name = "Adventure" }
+            );
         }
     }
 }

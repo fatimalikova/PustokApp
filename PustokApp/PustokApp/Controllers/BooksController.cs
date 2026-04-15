@@ -46,7 +46,8 @@ namespace PustokApp.Controllers
                 .FirstOrDefault(x => x.Id == id);
             if (book == null)
                 return NotFound();
-            return PartialView("_BookModalPartial", book);
+            return PartialView("_BookModalPartialView", book);
+            //return Json(book);
 
         }
     }

@@ -10,6 +10,12 @@ namespace PustokApp.Data.Configurations
         public void Configure(EntityTypeBuilder<BookImage> builder)
         {
             builder.Property(x => x.Image).IsRequired(false);
+
+            builder.HasData(
+                new BookImage { Id = Guid.Parse("aaaaaaaa-0000-0000-0000-aaaaaaaa0001"), BookId = Guid.Parse("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"), Image = "assets/image/products/product-1.jpg" },
+                new BookImage { Id = Guid.Parse("aaaaaaaa-0000-0000-0000-aaaaaaaa0002"), BookId = Guid.Parse("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"), Image = "assets/image/products/product-3.jpg" },
+                new BookImage { Id = Guid.Parse("aaaaaaaa-0000-0000-0000-aaaaaaaa0003"), BookId = Guid.Parse("cccccccc-cccc-cccc-cccc-cccccccccccc"), Image = "assets/image/products/product-5.jpg" }
+            );
         }
     }
 }

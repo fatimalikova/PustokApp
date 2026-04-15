@@ -101,3 +101,4 @@ wwwroot\assets\js\ajax-mail.js
 wwwroot\assets\js\custom.js
 wwwroot\assets\js\plugins.js
 wwwroot\favicon.ico
+wwwroot\assets\js\main.js

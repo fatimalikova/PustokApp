@@ -45,19 +45,19 @@ namespace PustokApp.Data.Migrations
                         {
                             Id = new Guid("11111111-1111-1111-1111-111111111111"),
                             FullName = "George Orwell",
-                            ImageUrl = "authors/george-orwell.jpg"
+                            ImageUrl = "assets/image/products/product-1.jpg"
                         },
                         new
                         {
                             Id = new Guid("22222222-2222-2222-2222-222222222222"),
                             FullName = "Jane Austen",
-                            ImageUrl = "authors/jane-austen.jpg"
+                            ImageUrl = "assets/image/products/product-2.jpg"
                         },
                         new
                         {
                             Id = new Guid("33333333-3333-3333-3333-333333333333"),
                             FullName = "Mark Twain",
-                            ImageUrl = "authors/mark-twain.jpg"
+                            ImageUrl = "assets/image/products/product-3.jpg"
                         });
                 });
 
@@ -116,11 +116,11 @@ namespace PustokApp.Data.Migrations
                             Code = 1001,
                             Description = "Dystopian social science fiction novel and cautionary tale.",
                             DiscountPercentage = 10,
-                            HoverImageUrl = "books/1984-hover.jpg",
+                            HoverImageUrl = "assets/image/products/product-2.jpg",
                             InStock = true,
                             IsFeatured = true,
                             IsNew = false,
-                            MainImageUrl = "books/1984.jpg",
+                            MainImageUrl = "assets/image/products/product-1.jpg",
                             Name = "1984",
                             Price = 19.99m
                         },
@@ -131,11 +131,11 @@ namespace PustokApp.Data.Migrations
                             Code = 1002,
                             Description = "A romantic novel of manners written by Jane Austen.",
                             DiscountPercentage = 0,
-                            HoverImageUrl = "books/pride-and-prejudice-hover.jpg",
+                            HoverImageUrl = "assets/image/products/product-4.jpg",
                             InStock = true,
                             IsFeatured = false,
                             IsNew = false,
-                            MainImageUrl = "books/pride-and-prejudice.jpg",
+                            MainImageUrl = "assets/image/products/product-3.jpg",
                             Name = "Pride and Prejudice",
                             Price = 14.99m
                         },
@@ -146,11 +146,11 @@ namespace PustokApp.Data.Migrations
                             Code = 1003,
                             Description = "A novel by Mark Twain, first published in 1884.",
                             DiscountPercentage = 5,
-                            HoverImageUrl = "books/huckleberry-finn-hover.jpg",
+                            HoverImageUrl = "assets/image/products/product-6.jpg",
                             InStock = true,
                             IsFeatured = false,
                             IsNew = false,
-                            MainImageUrl = "books/huckleberry-finn.jpg",
+                            MainImageUrl = "assets/image/products/product-5.jpg",
                             Name = "Adventures of Huckleberry Finn",
                             Price = 12.50m
                         });
@@ -179,19 +179,19 @@ namespace PustokApp.Data.Migrations
                         {
                             Id = new Guid("aaaaaaaa-0000-0000-0000-aaaaaaaa0001"),
                             BookId = new Guid("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"),
-                            Image = "books/1984-1.jpg"
+                            Image = "assets/image/products/product-1.jpg"
                         },
                         new
                         {
                             Id = new Guid("aaaaaaaa-0000-0000-0000-aaaaaaaa0002"),
                             BookId = new Guid("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"),
-                            Image = "books/pride-1.jpg"
+                            Image = "assets/image/products/product-3.jpg"
                         },
                         new
                         {
                             Id = new Guid("aaaaaaaa-0000-0000-0000-aaaaaaaa0003"),
                             BookId = new Guid("cccccccc-cccc-cccc-cccc-cccccccccccc"),
-                            Image = "books/huck-1.jpg"
+                            Image = "assets/image/products/product-5.jpg"
                         });
                 });
 
