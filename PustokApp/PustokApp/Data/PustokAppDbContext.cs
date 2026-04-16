@@ -19,5 +19,6 @@ namespace PustokApp.Data
         public DbSet<BookTag> BookTags { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Setting> Settings { get; set; }
     }
 }

@@ -17,7 +17,7 @@ namespace PustokApp.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "10.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -231,6 +231,19 @@ namespace PustokApp.Data.Migrations
                             TagId = new Guid("66666666-6666-6666-6666-666666666666"),
                             Id = new Guid("bbbbbbbb-0000-0000-0000-bbbbbbbb0003")
                         });
+                });
+
+            modelBuilder.Entity("PustokApp.Models.Setting", b =>
+                {
+                    b.Property<string>("Key")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Value")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Key");
+
+                    b.ToTable("Settings");
                 });
 
             modelBuilder.Entity("PustokApp.Models.Slider", b =>

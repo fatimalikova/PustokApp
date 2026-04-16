@@ -59,8 +59,8 @@ namespace PustokApp.Controllers
             //    AuthorName = book.Author.FullName,
             //    Url = book.BookImages.Select(x => x.Image).ToList()
             //};
-            //return PartialView("_BookModalPartialView", book);
-            return Json(book);
+            return PartialView("_BookModalPartialView", book);
+            //return Json(book);
 
         }
     }
